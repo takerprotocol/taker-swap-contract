@@ -1,0 +1,12 @@
+{
+  "name": "@pancakeswap/common",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "compile": "echo 'No compile needed'",
+    "test": "echo 'No test needed'"
+  },
+  "dependencies": {
+    "@pancakeswap/common": "file:"
+  }
+}
